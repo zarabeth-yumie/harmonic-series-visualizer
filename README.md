@@ -10,7 +10,7 @@ Feature List:
 
 If anyone has any suggestions/issues, please DM me. I'm really interested in making this as helpful as possible! Also, this tech stack is super simple for anyone familiar with Python so feel free to branch off my code and try something out!
 
-LinkedIn: https://www.linkedin.com/in/naren-manikandan/
+website: https://mathgecs.com
 
 ### Made using Bokeh, Python, and Glitch (for hosting and free)!
 
