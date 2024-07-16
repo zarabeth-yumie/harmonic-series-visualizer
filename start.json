@@ -1,0 +1,3 @@
+{
+  "start": "bokeh serve --port=3000 --allow-websocket-origin=taylor-webapp.glitch.me --address=0.0.0.0 taylor-webapp.py"
+}
