@@ -1,4 +1,4 @@
-# taylor-webapp
+# series-visualizer-webapp
 
 The most fascinating topic I encountered in my calculus journey this year was the remarkable Taylor Series. The concept of approximating complex functions with simpler polynomials left me in awe, although comprehending it was no easy feat. Driven by making this topic more accessible, I created a web application that provides a visualization for the Taylor Polynomial. I used Bokeh, an interactive visualization library in Python, and hosted the page using Glitch.
 
@@ -10,7 +10,7 @@ Feature List:
 
 If anyone has any suggestions/issues, please DM me. I'm really interested in making this as helpful as possible! Also, this tech stack is super simple for anyone familiar with Python so feel free to branch off my code and try something out!
 
-website: https://mathgecs.com
+Linkedin: https://www.linkedin.com/in/zara-beth-950573298/
 
 ### Made using Bokeh, Python, and Glitch (for hosting and free)!
 
